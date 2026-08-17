@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+label {
+    font-family: "Gravitas One", serif;
+}
+
+.imagemDolar {
+    height: 20%;
+    width: 20%;
+}
